@@ -43,7 +43,7 @@ Building interesting things that extend AI capabilities — **Skills development
 </p>
 <p align="center">
   <img width="49%" align="top" src="https://raw.githubusercontent.com/patrickleehua/patrickleehua/main/github-metrics/isocalendar.fullyear.svg" alt="Isometric Calendar">
-  <img width="49%" align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickleehua&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Languages">
+  <img width="49%" align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickleehua&layout=compact&hide_border=true&theme=default" alt="Top Languages">
 </p>
 
 
