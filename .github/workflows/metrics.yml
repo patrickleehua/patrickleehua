@@ -1,0 +1,23 @@
+name: GitHub Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 📅 Isometric commit calendar
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # 不添加基础信息
+          base: ""
+          # 使用此插件
+          plugin_isocalendar: yes
+          # 设置成显示整年
+          plugin_isocalendar_duration: full-year
