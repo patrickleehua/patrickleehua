@@ -30,11 +30,10 @@
 
 ## GitHub Stats
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patrickleehua&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats"><img width="48%" src="https://streak-stats.demolab.com/?user=patrickleehua&hide_border=true" alt="GitHub Streak">
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickleehua&layout=compact&hide_border=true&theme=default" alt="Top Languages"><img width="48%" src="https://github.com/patrickleehua/patrickleehua/blob/main/github-metrics/isocalendar.fullyear.svg" alt="Isometric Calendar">
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patrickleehua&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickleehua&layout=compact&hide_border=true&theme=default" alt="Top Languages">
 
 
+<img width="48%" src="https://github.com/patrickleehua/patrickleehua/blob/main/github-metrics/isocalendar.fullyear.svg" alt="Isometric Calendar"><img width="48%" src="https://streak-stats.demolab.com/?user=patrickleehua&hide_border=true" alt="GitHub Streak">
 
 ## What I'm Doing
 
@@ -44,6 +43,6 @@ Building interesting things that extend AI capabilities — **Skills development
 
 ## Connect
 
-Telegram: **@patrick_AZZ**
+Telegram: **[@patrick_AZZ](https://t.me/patrick_AZZ)**
 
 ---
