@@ -15,6 +15,7 @@ jobs:
         with:
           filename: github-metrics/isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
           # 不添加基础信息
           base: ""
           # 使用此插件
