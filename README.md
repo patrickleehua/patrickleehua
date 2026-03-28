@@ -44,5 +44,6 @@ Building interesting things that extend AI capabilities — **Skills development
 ## Connect
 
 Telegram: **[@patrick_AZZ](https://t.me/patrick_AZZ)**
+X/Twitter: **[@PATRICLEE01](https://x.com/PATRICLEE01)**
 
 ---
