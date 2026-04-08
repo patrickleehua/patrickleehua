@@ -23,11 +23,13 @@
 
 ## What I'm Doing
 
-Building interesting things that extend AI capabilities — **Skills development**, **Quantitative trading strategies**, and **OpenClaw customization**.
+Building interesting things that extend AI capabilities — **Open-source AI agents**,  **Skills development**, **Quantitative trading strategies**, and **OpenClaw customization**.
 
 ---
 
 ## Current Projects
+
+- **[Open Claude Python](https://github.com/patrickleehua/open-claude-python)** — A production-grade autonomous coding agent, rebuilt in Python. Inspired by Claude Code, fully open-source
 
 - **[Easily-Skills](https://github.com/patrickleehua/easily-skills)** — A collection of self-built skills for extending AI capabilities
 - **[Scheduler-Harness-for-Long-Running](https://github.com/patrickleehua/Scheduler-Harness-for-Long-Running)** — A scheduling solution for long-running AI agents
