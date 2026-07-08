@@ -1,9 +1,10 @@
 # Hi, I'm Patrick Lee 👋
 
-📍 **Guangzhou / Shenzhen**
+📍 **Da Nang / Chiang Mai / Guangzhou / Shenzhen** · Remote
 
-> 3+ years backend developer transitioning to full-stack.
-> Currently immersed in **Vibe Coding**, **Web3**, and **OpenClaw**
+> 3+ years backend developer transitioning to full-stack and AI product building.
+> Currently exploring **AI-powered trip planning**, **OPC / one-person company ideas**,
+> **FDE-style product delivery**, **Vibe Coding**, and **OpenClaw**
 > — working towards becoming a **super individual + digital nomad**.
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -23,11 +24,17 @@
 
 ## What I'm Doing
 
-Building interesting things that extend AI capabilities — **Open-source AI agents**,  **Skills development**, **Quantitative trading strategies**, and **OpenClaw customization**.
+Building AI-assisted products and tools that extend AI capabilities — **trip planning workflows**, **open-source AI agents**, **skills development**, **quantitative trading strategies**, and **OpenClaw customization**.
+
+Currently working remotely between **Da Nang**, **Chiang Mai**, and **Guangzhou / Shenzhen**, with a focus on AI-enabled product execution and Forward Deployed Engineer-style problem solving.
 
 ---
 
 ## Current Projects
+
+- **TravelFlow AI** — AI-native trip planning workspace for turning travel ideas into structured itineraries, routes, budgets, and booking-ready plans
+
+- **TripBoss** — Travel operations assistant focused on managing trip tasks, plan changes, local decisions, and execution workflows
 
 - **[Open Claude Python](https://github.com/patrickleehua/open-claude-python)** — A production-grade autonomous coding agent, rebuilt in Python. Inspired by Claude Code, fully open-source
 
