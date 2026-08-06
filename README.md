@@ -36,6 +36,8 @@ Currently working remotely between **Da Nang**, **Chiang Mai**, and **Guangzhou 
 
 - **TripBoss** — Travel operations assistant focused on managing trip tasks, plan changes, local decisions, and execution workflows
 
+- **[Nice Knowledge](https://github.com/patrickleehua/nice-knowledge)** — A multi-tenant Agent and knowledge-base platform SDK with LLM routing, agent runtime, and hybrid retrieval
+
 - **[Open Claude Python](https://github.com/patrickleehua/open-claude-python)** — A production-grade autonomous coding agent, rebuilt in Python. Inspired by Claude Code, fully open-source
 
 - **[Easily-Skills](https://github.com/patrickleehua/easily-skills)** — A collection of self-built skills for extending AI capabilities
